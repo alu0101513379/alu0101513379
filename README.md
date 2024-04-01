@@ -1,5 +1,5 @@
 # ¡Hola, mundo! 👋 Soy Sergio González Sánchez 👨‍💻✨
-¡Bienvenidos a mi mundo de bits y bytes en GitHub! 🌐 Soy **Sergio González Sánchez**, un estudiante de ingeniería informática en la Universidad de La Laguna (ULL) 🚀. ¡Aquí encontrarás mi código, mis proyectos y un poco de esa magia que solo los programadores entendemos! 🧙‍♂️
+¡Bienvenidos a mi mundo de bits y bytes en GitHub! 🌐 Soy **Sergio González Sánchez**, estudiante de ingeniería informática en la Universidad de La Laguna (ULL) 🚀. ¡Aquí encontrarás mi código, mis proyectos y un poco de esa magia que solo los programadores entendemos! 🧙‍♂️
 
 ## Acerca de Mí
 * 🎓 **Estudiante de Ingeniería Informática** en la ULL, ¡haciendo malabares con el código y los apuntes!
